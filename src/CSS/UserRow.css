@@ -1,0 +1,34 @@
+.invalidate {
+    content: url(../../public/invalidate.png) ;
+}
+.validate {
+    content: url(../../public/validate.png);
+}
+.trash{
+    content: url(../../public/trash.png);
+}
+
+.icon{
+    width: 20px !important;
+    height: 20px !important;
+}
+
+img{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+a{
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-size: 0.875rem;
+}
+
+img{
+    border: 5px solid;
+}
+.img_not_active{
+    border-color: red;
+}
+.img_active{
+    border-color: green;
+}
